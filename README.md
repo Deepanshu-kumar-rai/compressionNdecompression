@@ -32,6 +32,8 @@ CompX/
 │
 │── README.md                 # Project documentation
 
+---
+
 ## 📸 Project snips
 
 <img width="1321" height="884" alt="Screenshot 2025-09-02 090949" src="https://github.com/user-attachments/assets/0ae46cbc-3413-4a65-9beb-1b4ec4a6c2fc" />
