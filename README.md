@@ -32,3 +32,10 @@ CompX/
 │
 │── README.md                 # Project documentation
 
+Project snips
+
+<img width="1321" height="884" alt="Screenshot 2025-09-02 090949" src="https://github.com/user-attachments/assets/0ae46cbc-3413-4a65-9beb-1b4ec4a6c2fc" />
+
+<img width="1584" height="965" alt="Screenshot 2025-09-02 110149" src="https://github.com/user-attachments/assets/0d9d3a0f-f322-4c19-a1e8-a653fa4607af" />
+
+<img width="1046" height="967" alt="Screenshot 2025-09-02 110256" src="https://github.com/user-attachments/assets/714ffbae-36e3-4ac1-b95c-2e49d2712381" />
