@@ -39,7 +39,7 @@ public class decompressor {
     // Main method to test decompression
     public static void main(String[] args) throws IOException {
         // Specify the file path to decompress (use .cmp extension from compressor)
-        File path = new File("C:/Users/katre/Downloads/Compressor/compressordecompressor/CompressedFile.cmp");
+        File path = new File("C:/Users/DEEPANSHU KUMAR/Downloads/Downloads/Compressor/compressordecompressor/CompressedFile.cmp");
         method(path);
     }
 }

@@ -40,7 +40,7 @@ public class compressor {
 
     // Main method to test compression
     public static void main(String[] args) throws IOException {
-        File path = new File("C:/Users/katre/Downloads/Compressor/compressordecompressor/venky1.txt");
+        File path = new File("C:/Users/DEEPANSHU KUMAR/Downloads/compressor/");
         method(path);
     }
 }
